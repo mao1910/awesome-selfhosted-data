@@ -30,5 +30,13 @@ if __name__ == "__main__":
     software_dir = input("Enter path to awesome-selfhosted-data/software directory: ").strip()
     software_names = extract_software_names_yaml(software_dir)
     print(f"Found {len(software_names)} software entries.")
+
+    # Print names to console
     for name in software_names:
         print(name)
+
+    # Write names to extracted_names.txt automatically
+    with open('extracted_names.txt', 'w', encoding='utf-8') as f:
+        for name in software_names:
+            f.write(name + '\n')
+    print("Extracted names saved to extracted_names.txt")
