@@ -7,11 +7,11 @@ def load_list_from_file(filename):
 
 def main():
     # Load user’s curated list from curated_list.txt.txt
-    curated_list_file = 'curated_list.txt'
+    curated_list_file = '../curated_list.txt'
     your_software_list = load_list_from_file(curated_list_file)
 
     # Load extracted software names
-    extracted_software_names = load_list_from_file('extracted_names.txt')
+    extracted_software_names = load_list_from_file('../extracted_names.txt')
 
     # Normalize and compare
     your_set = set(name.lower() for name in your_software_list)
