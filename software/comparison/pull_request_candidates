@@ -1,0 +1,16 @@
+your_software_list = [
+    "Canary Tokens",
+    "Coolify",
+    "Docker Compose",
+    "Dokku",
+    "Duplicacy",
+    "Duplicati",
+    "File Browser",
+    "Hoarder",
+    "Hoppscotch",
+    "Language Tool",
+    "Node-RED",
+    "OpenVPN",
+    "Portainer",
+    "TT-RSS"
+]

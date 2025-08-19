@@ -1,0 +1,10 @@
+# Curated software list for comparison
+# Edit this file/the examples below to include the software names you want to check
+
+Canary Tokens
+Coolify
+Dockstarter
+Discourse
+Docker Compose
+Dokku
+Duplicacy
