@@ -10,8 +10,8 @@ tags:
   - Health and Fitness
 source_code_url: https://github.com/wger-project/wger
 demo_url: https://wger.de/en/dashboard
-stargazers_count: 6845
-updated_at: '2026-09-03'
+stargazers_count: 6849
+updated_at: '2026-09-05'
 archived: false
 current_release:
   tag: '2.7'
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 113
   2026-07: 85
   2026-08: 236
-  2026-09: 7
+  2026-09: 11
