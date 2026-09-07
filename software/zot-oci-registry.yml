@@ -10,12 +10,12 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 demo_url: https://zothub.io
-stargazers_count: 2712
-updated_at: '2026-09-05'
+stargazers_count: 2717
+updated_at: '2026-09-06'
 archived: false
 current_release:
-  tag: v2.1.20
-  published_at: '2026-08-04'
+  tag: v2.1.21
+  published_at: '2026-09-06'
 commit_history:
   2025-10: 33
   2025-11: 38
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 25
   2026-07: 61
   2026-08: 54
-  2026-09: 17
+  2026-09: 18

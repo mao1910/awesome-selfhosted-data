@@ -1,6 +1,6 @@
 name: Saleor
 website_url: https://saleor.io
-description: Django based open-sourced e-commerce storefront.
+description: GraphQL native, API-only platform for scalable composable e-commerce storefront.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -10,7 +10,7 @@ tags:
   - E-commerce
 source_code_url: https://github.com/saleor/saleor
 demo_url: https://demo.saleor.io/
-stargazers_count: 23293
+stargazers_count: 23299
 updated_at: '2026-09-02'
 archived: false
 current_release:

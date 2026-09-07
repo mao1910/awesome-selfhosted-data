@@ -8,8 +8,8 @@ platforms:
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/Peergos/Peergos
-stargazers_count: 2457
-updated_at: '2026-09-05'
+stargazers_count: 2460
+updated_at: '2026-09-06'
 archived: false
 commit_history:
   2025-10: 75
@@ -23,4 +23,4 @@ commit_history:
   2026-06: 135
   2026-07: 28
   2026-08: 190
-  2026-09: 5
+  2026-09: 6

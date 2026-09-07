@@ -10,14 +10,14 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/theonedev/onedev
-stargazers_count: 15228
-updated_at: '2026-09-03'
+stargazers_count: 15230
+updated_at: '2026-09-06'
 archived: false
 current_release:
-  tag: v16.5.11
-  published_at: '2026-09-03'
+  tag: v16.5.12
+  published_at: '2026-09-06'
 commit_history:
   2026-06: 78
   2026-07: 210
   2026-08: 183
-  2026-09: 22
+  2026-09: 25

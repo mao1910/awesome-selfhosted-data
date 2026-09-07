@@ -1,6 +1,6 @@
 name: Thingsboard
 website_url: https://thingsboard.io/
-description: Open-source IoT Platform - Device management, data collection, processing and visualization.
+description: IoT Platform - Device management, data collection, processing and visualization.
 licenses:
   - Apache-2.0
 platforms:
@@ -11,7 +11,7 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/thingsboard/thingsboard
 demo_url: https://demo.thingsboard.io/signup
-stargazers_count: 22369
+stargazers_count: 22373
 updated_at: '2026-09-04'
 archived: false
 current_release:
